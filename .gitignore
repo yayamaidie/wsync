@@ -1,0 +1,5 @@
+wsync.yaml
+wsync-arm64
+wsync-amd64
+wsync.crt
+wsync.key
