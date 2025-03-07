@@ -39,7 +39,7 @@ If the sender endpoint is configured with puller related information, the destin
 - period: Synchronization is performed periodically.
 - web: Synchronization is triggered immediately on the puller side when changes occur to the project on the sender.
 
-# config.yaml example
+## config.yaml example
 ```yaml
 # source machine
 #========================================================
@@ -109,6 +109,6 @@ puller:
   ip: "192.168.75.11"
 ```
 
-# Contributors
+## Contributors
 
 Welcome to participate in the joint development of this project
